@@ -76,3 +76,5 @@ Then restart sshd
 ```sh
 /etc/init.d/ssh restart
 ```
+
+##### @artur-herus
